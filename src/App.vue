@@ -18,8 +18,7 @@
 
       <div id="mainNav" class="navbar-menu">
         <div class="navbar-end">
-          <router-link to="/" class="navbar-item" active-class="is-active">Home</router-link>
-          <router-link to="/about" class="navbar-item" active-class="is-active">About</router-link>
+          <router-link to="/" class="navbar-item" active-class="is-active">Início</router-link>
         </div>
       </div>
     </nav>
