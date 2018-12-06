@@ -18,7 +18,9 @@
 
       <div id="mainNav" class="navbar-menu">
         <div class="navbar-end">
-          <router-link to="/" class="navbar-item" active-class="is-active">Início</router-link>
+          <router-link to="/" class="navbar-item" active-class="is-active"
+            >Início</router-link
+          >
         </div>
       </div>
     </nav>
